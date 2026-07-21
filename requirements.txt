@@ -1,1 +1,6 @@
-deploy the file
+numpy
+pandas
+matplotlib
+scikit-learn
+streamlit
+seaborn
